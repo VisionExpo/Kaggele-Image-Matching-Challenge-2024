@@ -1,0 +1,33 @@
+{
+  "build": "h22015db_20",
+  "build_number": 20,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "vc14_runtime >=14.38.33135"
+  ],
+  "extracted_package_dir": "C:\\Users\\DELL\\anaconda3\\pkgs\\vs2015_runtime-14.38.33135-h22015db_20",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "vs2015_runtime-14.38.33135-h22015db_20.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\DELL\\anaconda3\\pkgs\\vs2015_runtime-14.38.33135-h22015db_20",
+    "type": 1
+  },
+  "md5": "bb4f5ab332e46e1b022d8842e72905b1",
+  "name": "vs2015_runtime",
+  "package_tarball_full_path": "C:\\Users\\DELL\\anaconda3\\pkgs\\vs2015_runtime-14.38.33135-h22015db_20.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "2cebabc39766ea051e577762d813ad4151e9d0ff96f3ff3374d575a272951416",
+  "size": 17124,
+  "subdir": "win-64",
+  "timestamp": 1716231247000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/vs2015_runtime-14.38.33135-h22015db_20.conda",
+  "version": "14.38.33135"
+}

@@ -1,1 +1,5 @@
 # List of project dependencies
+numpy
+matplotlib
+opencv-python
+g2o-python
