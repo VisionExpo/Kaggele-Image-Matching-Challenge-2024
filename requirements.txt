@@ -4,3 +4,4 @@ matplotlib
 opencv-python
 g2o-python
 scipy
+pymesh
